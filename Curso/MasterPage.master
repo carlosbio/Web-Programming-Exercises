@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Curso</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+
+        <h1><asp:Label id="labelCurso" runat="server" Text="Engenharia Informática"></asp:Label></h1>
+
+        <div>
+            
+            &nbsp
+            &nbsp
+            &nbsp
+            &nbsp
+            &nbsp
+
+            <asp:HyperLink ID="linkInicio" runat="server" NavigateUrl="~/Default.aspx" Text="Inicio"></asp:HyperLink>
+
+            <asp:HyperLink ID="linkUCs" runat="server" NavigateUrl="~/UnidadesCurriculares.aspx" Text="Unidades Curriculares"></asp:HyperLink>
+
+        </div>
+
+        <section>
+            <asp:ContentPlaceHolder ID="cphConst" runat="server">                
+            </asp:ContentPlaceHolder>
+        </section>
+    </div>
+    </form>
+</body>
+</html>

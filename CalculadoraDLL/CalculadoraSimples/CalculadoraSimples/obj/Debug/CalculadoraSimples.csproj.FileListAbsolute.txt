@@ -1,0 +1,5 @@
+D:\Dropbox\ISEC\3ro ano\1ro semestre\PWEB\P\CalculadoraDLL\CalculadoraSimples\CalculadoraSimples\bin\Debug\CalculadoraSimples.dll
+D:\Dropbox\ISEC\3ro ano\1ro semestre\PWEB\P\CalculadoraDLL\CalculadoraSimples\CalculadoraSimples\bin\Debug\CalculadoraSimples.pdb
+D:\Dropbox\ISEC\3ro ano\1ro semestre\PWEB\P\CalculadoraDLL\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.csprojResolveAssemblyReference.cache
+D:\Dropbox\ISEC\3ro ano\1ro semestre\PWEB\P\CalculadoraDLL\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.dll
+D:\Dropbox\ISEC\3ro ano\1ro semestre\PWEB\P\CalculadoraDLL\CalculadoraSimples\CalculadoraSimples\obj\Debug\CalculadoraSimples.pdb
